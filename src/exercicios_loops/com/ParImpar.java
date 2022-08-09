@@ -25,7 +25,7 @@ public class ParImpar {
      
   
     }
-    System.out.println("Tem " + qtdPares + "e " + qtdImpares + "Impares");
+    System.out.println("Tem " + qtdPares + " e " + qtdImpares + " Impares");
     
     
 	}
